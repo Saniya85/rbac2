@@ -1,3 +1,4 @@
-console.log("hello world");
-console.log("saniya");
-console.log("add");
+
+console.log("12345");
+
+
